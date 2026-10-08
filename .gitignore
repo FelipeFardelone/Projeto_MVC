@@ -1,0 +1,13 @@
+# Pasta de dependências (nunca deve ir para o GitHub por ser muito pesada)
+node_modules/
+
+# Ficheiro de variáveis de ambiente (contém as tuas senhas e credenciais)
+.env
+
+# Ficheiros de log e ficheiros temporários do sistema
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
